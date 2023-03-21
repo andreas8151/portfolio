@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgba(0, 0, 0, 0.262);
+  color: #fff;
+  height: 80px;
+  text-align: center;
+  width: 100%;
+}
+
+.footer__socials {
+  color: #fff;
+  font-size: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  .footer {
+    display: none;
+  }
+}
