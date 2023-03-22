@@ -8,6 +8,7 @@ const Nav = () => {
     <nav>
       <div className="header_socials">
         <a
+          className="linkTo"
           href="https://www.linkedin.com/in/andreas-warncke-663464165/"
           target="_blank"
           rel="noreferrer"
@@ -15,6 +16,7 @@ const Nav = () => {
           <BsLinkedin className="header_socials" />
         </a>
         <a
+          className="linkTo"
           href="https://github.com/andreas8151"
           target="_blank"
           rel="noreferrer"

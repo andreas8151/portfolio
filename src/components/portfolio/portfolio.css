@@ -1,13 +1,6 @@
 .portf_img {
   height: 450px;
-  margin-top: 10px;
-  border-radius: 10px;
-  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.458);
-  transition: var(--transition);
-}
-
-.portf_img_todo {
-  height: 450px;
+  width: 900px;
   margin-top: 10px;
   border-radius: 10px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.458);

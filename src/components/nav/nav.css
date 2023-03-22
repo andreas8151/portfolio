@@ -14,7 +14,7 @@ nav {
   backdrop-filter: blur(5px);
 }
 
-nav a {
+.linkTo {
   background: transparent;
   padding: 0.9rem;
   border-radius: 50%;
@@ -23,7 +23,7 @@ nav a {
   font-size: 1.1rem;
 }
 
-nav a:hover {
+.linkTo:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 
