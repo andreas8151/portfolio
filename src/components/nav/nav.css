@@ -16,15 +16,11 @@ nav {
 
 .linkTo {
   background: transparent;
-  padding: 0.9rem;
+  padding: 0.5rem;
   border-radius: 50%;
   display: flex;
   color: var(--color-light);
   font-size: 1.1rem;
-}
-
-.linkTo:hover {
-  background: rgba(0, 0, 0, 0.3);
 }
 
 /* ---------- HEADER SOCIALS -------------*/
