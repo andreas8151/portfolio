@@ -10,7 +10,6 @@ header {
   position: relative;
 }
 
-
 /* ---------- ME -------------*/
 
 .me {
@@ -38,7 +37,6 @@ header {
 /* -------------- MEDIA QUERIES (MEDIUM) ------------------- */
 
 @media screen and (max-width: 1024px) {
-
 }
 
 /* -------------- MEDIA QUERIES (SMALL) ------------------- */
@@ -48,7 +46,9 @@ header {
     height: 100vh;
   }
 
-
+  .me {
+    height: 100%;
+  }
   .scroll_down {
     display: none;
   }
