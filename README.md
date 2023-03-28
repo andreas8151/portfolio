@@ -1,3 +1,26 @@
+My Portfolio
+-------
+
+My Portfolio is a personal website built with React that showcases my skills, projects, and experience. The site is designed to be visually appealing and user-friendly, with an easy-to-navigate interface and responsive layout.
+
+Features
+
+About me: A page that provides more detail about my background.
+My experience: showcase my experience.
+Projects: A page that showcases some of my recent projects.
+Contact: A page that provides a form for users to get in touch with me.
+
+
+Technologies Used
+
+React
+CSS
+HTML
+
+Future Plans
+
+In the future, I plan to add more projects to the site and continue to refine the design and layout. I also plan to add more interactive elements, such as animations or video demos of my work.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
