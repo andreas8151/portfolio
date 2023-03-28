@@ -7,8 +7,7 @@ import { BsMusicNoteBeamed } from "react-icons/bs";
 function About() {
   return (
     <section id="about">
-      <h5>Get To Know</h5>
-      <h2>About Me</h2>
+      <h2>About me</h2>
 
       <div className="container about_container">
         <div className="about_me">
@@ -16,17 +15,15 @@ function About() {
             <img src={ME} alt="About img" />
           </div>
         </div>
-
         <div className="about_content">
           <p>
-            My name is Andreas and I am a 27-year-old full-stack web development
-            student. I have always had a passion for technology and creating
-            beautiful, functional websites that are a pleasure for users to
-            interact with. This passion drives me to constantly improve my
-            skills and stay up-to-date with the latest web development
-            technologies. I am a motivated and results-focused individual who is
-            dedicated to delivering high-quality work that meets or exceeds the
-            expectations of my clients.
+            Hi ! I'm Andreas, a passionate full-stack web development student
+            with experience in both frontend and backend development. I love
+            building user-friendly websites and always strive to learn new
+            things. Currently, i'm actively seeking an internship or job
+            opportunity starting from October 30, 2023, where I can apply my
+            knowledge and gain hands-on experience. If you're looking for a
+            dedicated and motivated developer, i would love to hear from you!
           </p>
           <div className="about_cards">
             <article className="about_card">
@@ -36,8 +33,10 @@ function About() {
             </article>
             <article className="about_card">
               <BsMusicNoteBeamed className="about__icon" />
-              <h5>Hobbys</h5>
-              <small>Music</small>
+              <h5>Hobbies</h5>
+              <small>Guitar playing</small>
+              <br />
+              <small>Art work</small>
             </article>
             <a
               href="https://www.linkedin.com/in/andreas-warncke-663464165/"
@@ -45,7 +44,7 @@ function About() {
               rel="noreferrer"
               className="btn"
             >
-              Contact Me!
+              Contact
             </a>
           </div>
         </div>
